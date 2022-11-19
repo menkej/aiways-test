@@ -1,0 +1,177 @@
+{
+  "0_userdata.0.aiwaystest": {
+    "common": {
+      "name": "aiwaystest"
+    },
+    "type": "folder",
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1667239957702,
+    "_id": "0_userdata.0.aiwaystest",
+    "acl": {
+      "object": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  },
+  "0_userdata.0.aiwaystest.aiways-app-login": {
+    "common": {
+      "name": "aiways-app-login",
+      "desc": "Manuell erzeugt",
+      "role": "state",
+      "type": "string",
+      "read": true,
+      "write": true,
+      "def": ""
+    },
+    "type": "state",
+    "native": {},
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1668868077077,
+    "_id": "0_userdata.0.aiwaystest.aiways-app-login",
+    "acl": {
+      "object": 1636,
+      "state": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  },
+  "0_userdata.0.aiwaystest.aiways-app-password": {
+    "common": {
+      "name": "aiways-app-password",
+      "desc": "Manuell erzeugt",
+      "role": "state",
+      "type": "string",
+      "read": true,
+      "write": true,
+      "def": ""
+    },
+    "type": "state",
+    "native": {},
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1668868097829,
+    "_id": "0_userdata.0.aiwaystest.aiways-app-password",
+    "acl": {
+      "object": 1636,
+      "state": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  },
+  "0_userdata.0.aiwaystest.aiways-login": {
+    "common": {
+      "name": "aiways-login",
+      "desc": "Manuell erzeugt",
+      "role": "state",
+      "type": "boolean",
+      "read": true,
+      "write": true,
+      "def": false
+    },
+    "type": "state",
+    "native": {},
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1667240010198,
+    "_id": "0_userdata.0.aiwaystest.aiways-login",
+    "acl": {
+      "object": 1636,
+      "state": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  },
+  "0_userdata.0.aiwaystest.aiways-response": {
+    "common": {
+      "name": "aiways-response",
+      "desc": "Manuell erzeugt",
+      "role": "state",
+      "type": "object",
+      "read": true,
+      "write": true
+    },
+    "type": "state",
+    "native": {},
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1667247972502,
+    "_id": "0_userdata.0.aiwaystest.aiways-response",
+    "acl": {
+      "object": 1636,
+      "state": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  },
+  "0_userdata.0.aiwaystest.aiways-token": {
+    "common": {
+      "name": "aiways-token",
+      "desc": "Manuell erzeugt",
+      "role": "state",
+      "type": "string",
+      "read": true,
+      "write": true,
+      "def": ""
+    },
+    "type": "state",
+    "native": {},
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1667239990656,
+    "_id": "0_userdata.0.aiwaystest.aiways-token",
+    "acl": {
+      "object": 1636,
+      "state": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  },
+  "0_userdata.0.aiwaystest.aiways-userid": {
+    "common": {
+      "name": "aiways-userid",
+      "desc": "Manuell erzeugt",
+      "role": "state",
+      "type": "number",
+      "read": true,
+      "write": true,
+      "def": 0
+    },
+    "type": "state",
+    "native": {},
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1667247677132,
+    "_id": "0_userdata.0.aiwaystest.aiways-userid",
+    "acl": {
+      "object": 1636,
+      "state": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  },
+  "0_userdata.0.aiwaystest.aiways-vin": {
+    "common": {
+      "name": "aiways-vin",
+      "desc": "Manuell erzeugt",
+      "role": "state",
+      "type": "string",
+      "read": true,
+      "write": true,
+      "def": ""
+    },
+    "type": "state",
+    "native": {},
+    "from": "system.adapter.admin.0",
+    "user": "system.user.admin",
+    "ts": 1667244057267,
+    "_id": "0_userdata.0.aiwaystest.aiways-vin",
+    "acl": {
+      "object": 1636,
+      "state": 1636,
+      "owner": "system.user.admin",
+      "ownerGroup": "system.group.administrator"
+    }
+  }
+}
